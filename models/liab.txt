@@ -1,0 +1,9 @@
+
+  "image_url": ,
+  "loan_amount": ,
+  "interest_rate": ,
+  "payment_terms": ,
+  "creditor_name": ,
+  "due_date": ,
+  "registration_number": ,
+

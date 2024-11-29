@@ -1,0 +1,20 @@
+{
+    "asset_name": ,
+    "image_url": ,
+    "category": ,
+    "current_value":,
+
+    "acquisition_cost": ,
+    "owner_name": ,
+    "usage": ,
+    "maintenence_cost": ,
+    "registration_number": ,
+
+
+
+    "purchase_date": {
+        type: Date,
+        default: Date.now,
+    },
+
+}
